@@ -1,4 +1,4 @@
-==========================================================================================Time Broadcast Class
+#Time Broadcast Class
 
 I use this to broadcast time on a periodic basis to my displays.
 
